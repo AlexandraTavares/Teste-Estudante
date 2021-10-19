@@ -7,9 +7,7 @@ import java.util.Scanner;
 public class TesteEstudante {
 	   
     public static TesteEstudante e;  
-    //erro: The method lerNota(int) from the type Estudante is not visible  
     double nota1 = e.lerNota(1);    
-    //erro: The method lerNota(int) from the type Estudante is not visible    
     double nota2 = e.lerNota(2);    
     double nota3 = e.lerNota(3);    
     double nota4 = e.lerNota(4);
